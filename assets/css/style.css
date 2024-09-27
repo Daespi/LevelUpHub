@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    padding: 0 2rem;
+    background: rebeccapurple;
+    color: white;
+    min-height: 20vh;
+    font-family: "Orbitron", sans-serif;
+    font-weight: 400;
+    font-size: 3rem;
+}
