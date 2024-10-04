@@ -1,7 +1,9 @@
 <?php
 
+require MODS . "home.php";
 
-require MODS.'/home.php';
+require VIEWS . "home.view.php";
+
 //require 'src/database.php';
 
 $db = connectMysql($dsn,$dbuser,$dbpassword);
