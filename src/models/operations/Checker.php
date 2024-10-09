@@ -22,6 +22,13 @@ class Checker{
         
 
     }
+
+
+    public static function passwordHash($password):string{
+        $num=10;
+        $passwordHashed = password_hash($password, $num, PASSWORD_DEFAULT);
+        return $passwordHashed;
+    }
 }
 
 ?>
