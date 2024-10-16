@@ -2,6 +2,8 @@
 
 <main>
 
+    <?php foreach($userData as $data): ?>
+    <?php endforeach ?>
 </main>
 
 <?php require VIEWS . "partials/footer.view.php" ?>

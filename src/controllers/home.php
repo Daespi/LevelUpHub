@@ -8,6 +8,7 @@ require VIEWS . "home.view.php";
 
 $db = connectMysql($dsn,$dbuser,$dbpassword);
 
+
 //dd($dbpassword);
 //$sql = "SELECT * FROM books";
 $users = query($db , "SELECT * FROM users");
