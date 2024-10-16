@@ -1,5 +1,4 @@
 <?php
-<?php
 $dbhost= 'localhost';
 $dbname = 'levelUpHubBD';
 $dbuser = 'dev1';

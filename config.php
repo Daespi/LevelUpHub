@@ -11,6 +11,7 @@ $paths = [
     "delete",
     "add",
     "login",
+    "signup"
 ];
 define("PATHS", $paths);
 
