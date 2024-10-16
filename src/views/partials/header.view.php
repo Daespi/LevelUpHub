@@ -16,7 +16,7 @@
 
         <header>
             <h1>LevelUpHub</h1>
-            <ul class="text-sm flex flex-row gap-4 m-auto">
+            <ul class="text-lg flex flex-row gap-4 ml-auto mr-0">
                 <li><a class="no-underline hover:underline" href="/login">Login</a></li>
                 <li><a class="no-underline hover:underline" href="/signup">Sign Up</a></li>
                 <li><a class="no-underline hover:underline" href="/dashboard">Dashboard</a></li>
