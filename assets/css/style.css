@@ -20,3 +20,7 @@ header {
 .bg-rebeccapurple{
     background-color: rebeccapurple;
 }
+
+.w-70ch {
+    width: 70ch;
+}
